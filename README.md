@@ -1,4 +1,6 @@
-﻿# 🚀 Satoshi 2.0
+﻿<p align="center"><img src="banner.svg" alt="Satoshi 2.0 Banner" width="720"/></p>
+
+# 🚀 Satoshi 2.0
 
 **Open-source movement to update the original Bitcoin philosophy for today.**
 
@@ -19,3 +21,4 @@ Practical guides, checklists and templates to help anyone keep Bitcoin **soverei
 
 Contributions welcome. Docs under **CC BY 4.0**, scripts under **MIT**.  
 Contact: **voraxanon@proton.me**
+
