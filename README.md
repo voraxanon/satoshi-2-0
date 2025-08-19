@@ -32,3 +32,8 @@ Contributions welcome. Docs under **CC BY 4.0**, scripts under **MIT**.
 Contact: **voraxanon@proton.me**
 
 
+
+## 💜 Donations
+Scan the QR code or send BTC to:
+\$btcAddress
+![Donate BTC](https://raw.githubusercontent.com/voraxanon/.github/main/profile/btc-donation-qr.png)
