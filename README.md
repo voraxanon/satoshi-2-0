@@ -1,12 +1,12 @@
 ﻿# 🚀 Satoshi 2.0
 
-**Open‑source movement to update the original Bitcoin philosophy for today.**  
+**Open-source movement to update the original Bitcoin philosophy for today.**  
 Created by [@voraxanon](https://github.com/voraxanon)
 
 📧 Contact: [voraxanon@proton.me](mailto:voraxanon@proton.me)
 
 ## 🔹 Mission
-Self‑custody · Social recovery · Accessible OpSec · Transparency & censorship resistance.
+Self-custody · Social recovery · Accessible OpSec · Transparency & censorship resistance.
 
 ## 📂 Project Repositories
 - **Social Recovery Playbook** → https://github.com/voraxanon/social-recovery-playbook  
